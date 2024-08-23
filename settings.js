@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
-global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.owner = ['6289655600201','6285855741339','6285773557984']
+global.packname = 'XNINE'
+global.author = 'NINEdev'
+global.botname = 'NINE Bot'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
@@ -39,14 +39,14 @@ global.limit = {
 }
 
 global.uang = {
-	free: 10000,
-	premium: 1000000,
+	free: 10,
+	premium: 100000000,
 	vip: 10000000
 }
 
 global.mess = {
 	owner: 'Fitur Khusus Owner!',
-	admin: 'Fitur Khusus Admin!',
+	admin: 'Fitur Khusus Admin!WANI PIRO',
 	botAdmin: 'Bot Bukan Admin!',
 	group: 'Gunakan Di Group!',
 	private: 'Gunakan Di Privat Chat!',
